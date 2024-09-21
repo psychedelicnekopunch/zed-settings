@@ -1,11 +1,13 @@
+セッティングメモ
+
+## Zed テキストエディタ
 
 https://zed.dev/
 
-セッティングメモ
 
-### Zedの設定の保管場所
+## Zedの設定の保管場所
 
-#### Mac
+### Mac
 
-/Users/<username>/.config/zed
+/Users/[username]/.config/zed
 
